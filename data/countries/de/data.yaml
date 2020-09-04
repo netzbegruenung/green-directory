@@ -182,3 +182,11 @@ urls:
     url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Alte
 emails:
   - address: kontakt@gruenealte.de
+---
+type: SUB_ORGANIZATION
+name: BAG Digitales und Medien
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: http://bag-gruene-medienundnetz.de
