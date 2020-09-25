@@ -256,7 +256,7 @@ urls:
 country: DE
 district: Leverkusen
 emails:
-  - address: b90-gruene-lev2@versanet.de
+  - address: kreisverband@gruene-lev.de
 level: DE:KREISVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
@@ -433,3 +433,20 @@ urls:
     url: https://www.instagram.com/fbanaszak/
 emails:
   - address: felix.banaszak@gruene-nrw.de
+---
+type: YOUTH_ORGANIZATION
+district: Leverkusen und Rheinisch-Bergischer Kreis
+level: DE:KREISVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: https://www.gj-lev-rbk.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gj.lev.rbk/
+  - type: TWITTER
+    url: https://twitter.com/lev_rbk/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_lev_rbk/
+emails:
+  - address: vorstand@gj-lev-rbk.de
