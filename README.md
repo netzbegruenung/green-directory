@@ -57,6 +57,7 @@ If not indicated otherwise, all attributes are of the type `String`.
     with a party.
   - `SUB_ORGANIZATION`: Some other sub-organization of a party.
   - `PERSON`: An individual with an important function (e.g. Member of Parliament).
+  - `PARLIAMENTARY_GROUP` : A parliamentary group (german: Fraktion) of a political party in a city council or parliament.
 
 - `level` (mandatory, except for Members of the European Parliament). A sub-classification of an entry with type `REGIONAL_CHAPTER`. Possible values:
   - `DE:BUNDESVERBAND` 

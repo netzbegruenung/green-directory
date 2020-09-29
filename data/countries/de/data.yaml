@@ -182,3 +182,18 @@ urls:
     url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Alte
 emails:
   - address: kontakt@gruenealte.de
+---
+type: PARLIAMENTARY_GROUP
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bundestag.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.im.Bundestag/
+  - type: TWITTER
+    url: https://twitter.com/gruenebundestag/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebundestag/
+emails:
+  - address: info@gruene-bundestag.de

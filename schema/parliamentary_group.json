@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/netzbegruenung/green-directory/blob/master/schema/parliamentary_group.json",
+  "title": "Parliamentary Group",
+  "description": "A parliamentary group of a political party in a city council or parliament",
+  "type": "object",
+  "properties": {
+    "type": {
+      "type": "string",
+      "description": "Type name, indicating which schema to use for validation.",
+      "const": "PARLIAMENTARY_GROUP"
+    },
+    "country": {
+      "type": "string",
+      "description": "Two-letter country code of the country the party is registered in, according to ISO 3166-1 alpha-2."
+    },
+    "level": {
+      "type": "string",
+      "description": "Regional level indicator.",
+      "enum": ["DE:BUNDESVERBAND", "DE:LANDESVERBAND", "DE:REGIONALVERBAND", "DE:KREISVERBAND", "DE:BEZIRKSVERBAND", "DE:ORTSVERBAND"]
+    },
+    "state": {
+      "type": "string",
+      "description": "Federal state or province the parliamentary group is active in."
+    },
+    "district": {
+      "type": "string",
+      "description": "District the parliamentary group is active in."
+    },
+    "city": {
+      "type": "string",
+      "description": "City a parliamentary group is active in."
+    },
+    "region": {
+      "type": "string",
+      "description": "Region a parliamentary group is active in (where neither district, state nor federal fit)."
+    },
+    "urls": {
+      "type": "array",
+      "description": "URLs for this party, for websites, social media accounts, or other resources.",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "URL kind identifier, like WEBSITE, FACEBOOK, ..."
+          },
+          "url": {
+            "type": "string",
+            "description": "A fully qualified URL.",
+            "pattern": "^(http|https)://[\\.a-z-]+[a-zA-Z0-9\\./\\_\\-\\+\\%\\#\\@]*$"
+          }
+        },
+        "required": ["type", "url"]
+      }
+    },
+    "emails": {
+      "type": "array",
+      "description": "Email contact information.",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "address": {
+            "type": "string",
+            "pattern": "^.+@.+$"
+          }
+        },
+        "required": ["address"]
+      }
+    }
+  },
+  "required": ["type", "country"],
+  "additionalProperties": false
+}
