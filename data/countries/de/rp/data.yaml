@@ -277,9 +277,11 @@ state: Rheinland-Pfalz
 district: Speyer
 urls:
   - type: WEBSITE
-    url: https://gruene-speyer.org/
+    url: https://www.gruene-speyer.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Speyer-196532870398785/
+    url: https://www.facebook.com/gruenespeyer
+  - type: INSTAGRAM
+    url: https://www.instagram.com/die_gruenen_speyer/
 emails:
   - address: kv-speyer@gruene-rlp.de
 ---
