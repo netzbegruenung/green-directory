@@ -24,7 +24,11 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bedburg-hau.de
+    url: https://www.gruene-bedburg-hau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneBH/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebedburghau/
 ---
 city: Emmerich
 country: DE
@@ -34,7 +38,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-emmerich.de/
+    url: https://www.gruene-emmerich.de/
 ---
 city: Geldern
 country: DE
@@ -44,7 +48,13 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-geldern.de/
+    url: http://gruene-in-geldern.de/
+  - type: TWITTER
+    url: https://twitter.com/gruenegeldern
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneingeldern/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenegeldern/
 ---
 city: Goch
 country: DE
@@ -54,7 +64,13 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-goch.de/start.html
+    url: https://www.gruene-goch.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGoch/
+  - type: TWITTER
+    url: https://twitter.com/gruenegoch
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenegoch/
 ---
 city: Issum
 country: DE
@@ -75,6 +91,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-kreis-kleve.de/ortsverbaende/kalkar/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Ortsverband-Kalkar-103022884873290
 ---
 city: Kevelaer
 country: DE
@@ -85,6 +103,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://gruene-kevelaer.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKevelaer/
 ---
 city: Kleve
 country: DE
@@ -94,7 +114,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-kleve.de/
+    url: https://gruene-kleve.de/startseite/ortsverband/
 ---
 city: Kranenburg
 country: DE
@@ -104,7 +124,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenekranenburg.de/home/
+    url: https://gruenekranenburg.de/
 ---
 city: Rees
 country: DE
@@ -114,7 +134,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-rees.de/
+    url: https://gruene-rees.de/
 ---
 city: Uedem
 country: DE
@@ -125,6 +145,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://gruene-uedem.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.uedem
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.uedem/
 ---
 city: Wachtendonk
 country: DE
@@ -134,7 +158,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wachtendonk.de/
+    url: https://www.gruene-wachtendonk.de/
 ---
 city: Straelen
 country: DE
@@ -155,6 +179,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-rheurdt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenAusDemDorf
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rheurdt/
 ---
 city: Weeze
 country: DE
@@ -165,3 +193,7 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-weeze.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWeeze
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneweeze/
