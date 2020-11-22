@@ -197,3 +197,17 @@ urls:
     url: https://www.facebook.com/GrueneWeeze
   - type: INSTAGRAM
     url: https://www.instagram.com/grueneweeze/
+---
+city: Kerken
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kerken.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekerken
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekerken/
