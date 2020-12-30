@@ -1,0 +1,161 @@
+---
+country: DE
+district: Kurpfalz-Hardt
+emails:
+  - address: kv.hardt@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kurpfalz-hardt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKH/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Altlussheim
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-altlussheim.de/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Brühl
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.grueneliste-bruehl.de/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Eppelheim
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eppelheim.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/GrueneEppelheim/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_eppelheim/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Hockenheim
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hockenheim.de/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Ketsch
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://xn--grneketsch-beb.de/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Neulussheim
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-neulussheim.de/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Oftersheim
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oftersheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOftersheim/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Plankstadt
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenelisteplankstadt.de/
+  - type: TWITTER
+    url: https://twitter.com/GLPlankstadt
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Reilingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-reilingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneReilingen
+  - type: TWITTER
+    url: https://twitter.com/@GrueneReilingen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/reilingergruene/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Sandhausen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://al-sandhausen.de/gruene/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Schwetzingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schwetzingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die-Gr%C3%BCnen-Schwetzingen-215646345123146/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: St. Leon-Rot
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-slr.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.slr/
+---
+country: DE
+district: Kurpfalz-Hardt
+city: Walldorf
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://walldorf.gruene-kurpfalz-hardt.de/

@@ -169,19 +169,6 @@ urls:
     url: https://www.facebook.com/gruenehohenlohe
 ---
 country: DE
-district: Kurpfalz-Hardt
-emails:
-  - address: kv.hardt@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-kurpfalz-hardt.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKH/
----
-country: DE
 district: Mannheim
 emails:
   - address: kv.mannheim@gruene.de
