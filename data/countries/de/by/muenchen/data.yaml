@@ -125,3 +125,15 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-muenchen.de/partei/ortsverbaende/zentral/
+---
+city: Hadern
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-muenchen.de/ov-hadern
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenehadern/
