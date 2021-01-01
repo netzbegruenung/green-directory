@@ -1,0 +1,31 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Aschaffenburg-Stadt
+urls:
+  - type: WEBSITE
+    url: https://gruene-ab.de/die-gruenen-aschaffenburg/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_aschaffenburg/
+  - type: TWITTER
+    url: https://twitter.com/gruene_ab
+---
+country: DE
+district: Aschaffenburg-Stadt
+level: DE:KREISVERBAND
+state: Bayern
+type: PERSON
+name: Niklas Wagener
+given_name: Niklas
+family_name: Wagener
+urls:
+  - type: WEBSITE
+    url: https://www.niklas-wagener.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/niklas.wagener.77
+  - type: INSTAGRAM
+    url: https://www.instagram.com/niklaswagener/

@@ -149,21 +149,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Aschaffenburg-Stadt
-urls:
-  - type: WEBSITE
-    url: https://gruene-ab.de/die-gruenen-aschaffenburg/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
-  - type: INSTAGRAM
-    url: https://www.instagram.com/gruene_aschaffenburg/
-  - type: TWITTER
-    url: https://twitter.com/gruene_ab
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Augsburg-Stadt
 urls:
   - type: WEBSITE
