@@ -9,7 +9,7 @@ country: DE
 state: Rheinland-Pfalz
 urls:
   - type: WEBSITE
-    url: https://gruene-rlp.de/startseite/
+    url: https://gruene-rlp.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenerlp/
   - type: TWITTER
