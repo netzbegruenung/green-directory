@@ -238,7 +238,7 @@ state: Rheinland-Pfalz
 district: Neustadt an der Weinstraße
 urls:
   - type: WEBSITE
-    url: https://gruene-nw.de/home/
+    url: https://gruene-nw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNW/
   - type: TWITTER
